@@ -1,2 +1,2 @@
 # Tools
-Favourite tool: GITHUB
+Favourite tool: git
